@@ -57,7 +57,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🧮 Scientific Calculator](https://github.com/Tanzeela-Nawaz/scientific-calculator) | Desktop calculator with trigonometry, logarithms, powers and a real calculator layout | Python, Tkinter |
+| [🧮 Scientific calculator](https://github.com/Tanzeela-Nawaz/scientific-calculator) | Desktop calculator with trigonometry, logarithms, powers and a real calculator layout | Python, Tkinter |
 
 *More data analysis projects (Python, SQL, Excel, Power BI) are on the way.*
 
